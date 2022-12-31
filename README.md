@@ -1,4 +1,4 @@
-# Python_Lecture
+# Python_Lecture（try用）
 高校生向け　情報Ⅰのプログラミング分野の対策用にお使いください．
 
 ## まずはじめに...
