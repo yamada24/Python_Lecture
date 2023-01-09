@@ -3,7 +3,7 @@
 ## 年末年始課題のヒントページ
 課題のヒントについては，現在作成中ですので，少々お待ちを．
 
-[課題のヒントページはこちら](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint1.md)  
+[課題のヒント特設ページはこちら](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint.md)  
 
 
 ## Lecture
