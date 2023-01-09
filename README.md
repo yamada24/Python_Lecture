@@ -4,7 +4,7 @@
 ## Lecture
 [1. Pythonの基本文法](https://github.com/yamada24/Python_Lecture/blob/main/linkme/bunpou.md)  
 [2. 素数判定のプログラム](https://github.com/yamada24/Python_Lecture/blob/main/linkme/sosu.md)  
-[3. coming soon..]()  
+[3. irisを用いたデータ分析](https://github.com/yamada24/Python_Lecture/blob/main/linkme/iris.md)  
 [4. coming soon..]()  
 [5. coming soon..]()  
 [6. coming soon..]()  
