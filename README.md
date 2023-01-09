@@ -1,6 +1,8 @@
 # Python_Lecture
 課題のヒントについては，現在作成中ですので，少々お待ちを．
 
+[課題のヒントページはこちら](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint1.md)  
+
 
 ## Lecture
 [1. Pythonの基本文法](https://github.com/yamada24/Python_Lecture/blob/main/linkme/bunpou.md)  
