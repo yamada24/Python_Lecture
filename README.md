@@ -2,8 +2,8 @@
 
 
 ## Lecture
-[1. Pythonの基本文法](https://github.com/yamada24/python_lecture/linkme/bunpou.md)  
-[2. 素数判定のプログラム](https://github.com/yamada24/python_lecture/linkme/sosu.md)  
+[1. Pythonの基本文法](https://github.com/yamada24/Python_Lecture/linkme/bunpou.md)  
+[2. 素数判定のプログラム](https://github.com/yamada24/Python_Lecture/linkme/sosu.md)  
 [3. coming soon..]()  
 [4. coming soon..]()  
 [5. coming soon..]()  
