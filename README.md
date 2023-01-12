@@ -1,12 +1,12 @@
 # Python_Lecture
 
-## 年末年始課題のヒントページ
-課題のヒントについては，現在作成中ですので，少々お待ちを．
+## 年末年始課題のヒントページ（更新中）
+課題のヒントについて，随時更新していますので以下のリンクから入ってどんどん進めてください！
 
 [課題のヒント特設ページはこちら](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint.md)  
 
 
-## Lecture
+## Lecture（閉鎖中）
 [1. Pythonの基本文法](https://github.com/yamada24/Python_Lecture/blob/main/linkme/bunpou.m)  
 [2. 素数判定のプログラム](https://github.com/yamada24/Python_Lecture/blob/main/linkme/sosu.m)  
 [3. irisを用いたデータ分析](https://github.com/yamada24/Python_Lecture/blob/main/linkme/iris.m)  
