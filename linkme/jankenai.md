@@ -168,7 +168,7 @@ print(hensu2)
 
 本題に戻ると，cpuの手をリストに記憶させる処理をかく．
 
-```
+```python
 # Listの宣言（初期値はからで用意しておく）
 cpuList = []
 
@@ -183,7 +183,7 @@ cpuList.append(cpu)
 
 ここまでのコードを確認してみる（多少違っていてもOK．結果が同じであればうまくいっているはず．）
 
-```pythomn
+```python
 import random
 
 cpuList = []
