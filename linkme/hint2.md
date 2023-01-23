@@ -102,7 +102,7 @@ cpu =  0
 さあ，ここでは，ジャンケンの探究に入ります．コンピュータと対戦できるようになったと思いますが，これではコンピュータは何も考えずにただひたすらにランダムな手を出すことになります．ここでは，それを少しでも人間のような手の出し方にできないか考えてみます．これを考えると，AIの世界に足を踏み入れることになりますね．ということで以下のURLからAIの導入についてやってみましょう！
 
 
-[ジャンケンの探究の探究](https://github.com/yamada24/Python_Lecture/blob/main/linkme/jankenai.md)  
+[ジャンケンの探究の探究（AIの実装入門）](https://github.com/yamada24/Python_Lecture/blob/main/linkme/jankenai.md)  
 
 
 
