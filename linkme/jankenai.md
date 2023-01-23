@@ -74,7 +74,7 @@ print(cpu)
 
 リスト（List）は配列とも呼ばれており，値を複数，順番をつけて持たせることができる変数型である．以下のように扱う．
 
-```
+```python
 # 空のリストを生成
 hensu1 = []
 
@@ -99,7 +99,7 @@ hensu2 = [1,2,3]
 
 プログラム
 
-```
+```python
 hensu1 = []
 hensu2 = [1,2,3]
 
@@ -128,7 +128,7 @@ print(hensu2)
 
 プログラム
 
-```
+```python
 hensu1 = []
 hensu2 = [1,2,3]
 
@@ -183,7 +183,7 @@ cpuList.append(cpu)
 
 ここまでのコードを確認してみる（多少違っていてもOK．結果が同じであればうまくいっているはず．）
 
-```
+```pythomn
 import random
 
 cpuList = []
@@ -210,7 +210,7 @@ for i in range(5):
 cpuがrandomな数字を受け取って，それが前の手と同じだったらもう一度，違う手
 だったらその手を出して記録する．という流れにしてみるとうまくいきそうである．では早速書いてみる．
 
-```
+```python
 while True:
 	cpu = random.randint(0,2)
 	
