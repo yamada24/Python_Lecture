@@ -222,8 +222,11 @@ sns.heatmap(iris.corr(), vmax=1, vmin=-1, annot=True)
 
 この場合，直線系の関係を示すことがわかる．
 
-`y = w0 + w1*x` （`y = ax + b`と同じ）
+`$y = w _ 0 + w _ 1 x$` （`$y = ax + b$`と同じ）
 
+$y = ax + b$
+
+$y = w _ 0 + w _ 1 x$
 
 
 
