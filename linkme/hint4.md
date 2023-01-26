@@ -224,11 +224,14 @@ sns.heatmap(iris.corr(), vmax=1, vmin=-1, annot=True)
 
 $y = w _ 0 + w _ 1 x$ （ $y = ax + b$ と同じ）
 
+このモデルでは， $w _ 0$ と $w _ 1$ を求めることで回帰直線を実現できることになる．（ $a$ と $b$ を求めることと同じ ）これを求める方法が分析ごとに異なり，特徴をもつ．ここでは平均二乗法を取り上げる．
+
+#### 平均二乗法
+定量分析の一般的な手法で以下の式で示す．
+
+$$ \sum_{k=1}^n \frac{y _ i - (w _ 0 + w _ 1 x _ i)}{n} $$
 
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 
 
