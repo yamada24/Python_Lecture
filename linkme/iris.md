@@ -17,3 +17,5 @@ sns.set()
 iris=sns.load_dataset("iris")
 print(iris)
 ```
+
+[python_iris_line](https://keio-bioinformatics.github.io/jikken/docs/3-1-iris/)  
