@@ -11,6 +11,10 @@
 [課題4のヒントページ（探究以外は完成）](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint4.md)  
 [課題5のヒントページ（現在作成中）](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint5.md)  
 
+課題を終えた人向け．．
+
+[まとめ](https://github.com/yamada24/Python_Lecture/blob/main/linkme/review.md)  
+
 [トップページに戻る](https://github.com/yamada24/Python_Lecture)  
 
 
