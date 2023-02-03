@@ -6,6 +6,12 @@
 [課題のヒント特設ページはこちら](https://github.com/yamada24/Python_Lecture/blob/main/linkme/hint.md)  
 
 
+
+## 春休み課題の特設ページ
+
+[春休み課題の特設ページはこちら（閉鎖中）](https://github.com/yamada24/Python_Practice/)  
+
+
 ## Lecture（閉鎖中）
 [1. Pythonの基本文法](https://github.com/yamada24/Python_Lecture/blob/main/linkme/bunpou.m)  
 [2. 素数判定のプログラム](https://github.com/yamada24/Python_Lecture/blob/main/linkme/sosu.m)  
